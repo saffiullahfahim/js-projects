@@ -3,3 +3,4 @@ JS Projects for my practice and making some fun!
 ___
 ### Projects
 1. Change Color Background
+2. Random Quotes Project
